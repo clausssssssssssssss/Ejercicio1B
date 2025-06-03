@@ -7,7 +7,7 @@ export default function Card({ children, style = {} }) {
         padding: '1rem',
         marginBottom: '1rem',
         backgroundColor: '#fff',
-        boxShadow: '0 2px 4px rgba(0,0,0,0.1)',
+        boxShadow: '0 2px 4px rgba(240, 32, 32, 0.1)',
         ...style,
       }}
     >
